@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tabishakhtar.dev@gmail.com**
 
-- ⚡ Fun fact **I help others**
+- ⚡ Fun fact **I love to help others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
