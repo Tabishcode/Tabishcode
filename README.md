@@ -5,7 +5,7 @@
 
 - 🌟Get my Services on Fiverr : ***https://www.fiverr.com/tabishdeveloper***
 
-- 🌱 I’m currently learning full stack applications **MERN, NEXTJS**
+- 🌱 I’m currently working on full stack applications **MERN, NEXTJS**
 
 - 💬 Ask me about **react, MERN, Nextjs**
 
