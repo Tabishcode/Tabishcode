@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on full stack applications **MERN, NEXTJS**
 
-- 💬 Ask me about **react, MERN, Nextjs**
+- 💬 Ask me about **React.js, MERN, Nextjs**
 
 - 📫 How to reach me **tabishakhtar.dev@gmail.com**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tabishakhtar.dev@gmail.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabish akhtar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tabish-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabish akhtar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
