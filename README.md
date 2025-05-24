@@ -1,11 +1,11 @@
-<h2 align="center">Hi 👋, I'm Tabish Akhtar</h1>
-<h4 align="center">A passionate Full Stack Software Engineer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Tabish Akhtar</h1>
+<h3 align="center">A passionate Full Stack Software Engineer from Pakistan</h3>
 
 
 
 ---
 
-- 🌱 I’m currently working on full stack applications using **MERN, Next.js**  
+- 🌱 I’m currently working on full stack applications using **MERN and Next.js**  
 - 💬 Ask me about **React.js, MERN, Next.js**  
 - 📫 How to reach me: **tabishx.dev@gmail.com**  
 - ⚡ Fun fact: **I love helping others and learning by teaching**
